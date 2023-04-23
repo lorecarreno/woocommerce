@@ -64,6 +64,8 @@ Construye una tienda online en WordPress y WooCommerce con notificaciones, enví
 
 ##### Instalando WordPress de forma local
 
+[Instalando WordPress de forma local](https://github.com/lorecarreno/woocommerce/blob/main/05.%20instalando-wordpress-de-forma-local.md)
+
  
 
 ##### ¿Qué es y por qué utilizar WooCommerce?
