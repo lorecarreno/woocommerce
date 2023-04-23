@@ -70,6 +70,8 @@ Construye una tienda online en WordPress y WooCommerce con notificaciones, enví
 
 ##### ¿Qué es y por qué utilizar WooCommerce?
 
+[¿Qué es y por qué utilizar WooCommerce?](https://github.com/lorecarreno/woocommerce/blob/main/06.%20que-es-y-por-que-utilizar-woocommerce.md)
+
 
 ##### Instalando WooCommerce
 
